@@ -1,0 +1,23 @@
+{
+  "name": "jsreport_progress",
+  "version": "1.0.0",
+  "description": "jsreport progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mic1223211/jsreport_progress.git"
+  },
+  "keywords": [
+    "jsreport",
+    "progress"
+  ],
+  "author": "li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mic1223211/jsreport_progress/issues"
+  },
+  "homepage": "https://github.com/Mic1223211/jsreport_progress#readme"
+}
